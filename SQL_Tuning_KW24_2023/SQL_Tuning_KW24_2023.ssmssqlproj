@@ -37,11 +37,11 @@
           <AssociatedConnUserName />
           <FullPath>02_Indexes.sql</FullPath>
         </FileNode>
-        <FileNode Name="03_.sql">
+        <FileNode Name="03_Indexes2.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>03_.sql</FullPath>
+          <FullPath>03_Indexes2.sql</FullPath>
         </FileNode>
         <FileNode Name="04_ParameterSniffing.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
@@ -54,6 +54,24 @@
           <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>05_Locks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05_Locks2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05_Locks2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07_DataCompression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:NS2-WIN10-2\SQLSPIELPLATZ:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>NS2-WIN10-2\SQLSPIELPLATZ</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_DataCompression.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

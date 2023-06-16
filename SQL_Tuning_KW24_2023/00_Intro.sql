@@ -11,7 +11,7 @@ Vor-Nachmittags 15 min Kaffeepause
 Agenda:
 
 -Tools intern und extern
-Profiler, Query Store, SQL Stress, Performance Monitor
+Profiler, Query Store, SQL Query Stress, Performance Monitor
 
 Partitionierung
 Data Compression
